@@ -35,5 +35,6 @@ public class Info {
 
     public String getTestName() {
         return testName;
+        System.out.println("Hi");
     }
 }
